@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f3b2ba4_9d775350",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30863
+      },
+      "writtenOn": "2022-08-07T22:09:42Z",
+      "side": 1,
+      "message": "This is identical to the patch I had to manually apply to build LineageOS myself.\n\n(For reference, https://github.com/Hima-Dev/android_kernel_htc_msm8994/commit/605b40b38a32d60d9b244a3312a8314e435b8e1f )",
+      "revId": "f42ebf6de457e77b7152965f41a008a1d155f0ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
